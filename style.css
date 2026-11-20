@@ -570,3 +570,14 @@ footer {
     }
 
 }
+
+.contact-item a {
+    color: #a855f7;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.contact-item a:hover {
+    color: #c084fc;
+    text-decoration: underline;
+}
